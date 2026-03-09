@@ -1,0 +1,38 @@
+body {
+    background: #3a3636;
+    padding: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.red-box {
+    width: 100px;
+    height: 100px;
+    background: rgb(211, 55, 55);
+    border-radius: 1rem;
+}
+
+.green-box {
+    width: 100px;
+    height: 100px;
+    background: rgb(55, 211, 55);
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+.blue-box {
+    width: 100px;
+    height: 100px;
+    background: rgb(55, 55, 211);
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+.yellow-box {
+    width: 100px;
+    height: 100px;
+    background: rgb(211, 211, 55);
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
